@@ -1,0 +1,4 @@
+reservoir_table_path;bucket_table_path;replica_schema;replica_table;livesync_schema;livesync_table
+s3://olxgroup-reservoir-latam-bi/in/latam/DBOLX_1/olx_items/;s3://olx-latam-bi/naspers-bi/latam/livesync4/bi-analytics/manifest/latam_DBOLX_1_olx_items/;DBOLX_1;olx_items;livesync;latam_dbolx_1_olx_items
+s3://olxgroup-reservoir-latam-bi/in/latam/DBOLX_1/olx_items/;s3://olx-latam-bi/naspers-bi/latam/livesync4/bi-analytics/manifest/latam_DBOLX_1_olx_items/;DBOLX_1;olx_items;livesync;latam_dbolx_1_olx_items_history
+s3://olxgroup-reservoir-latam-bi/in/latam/DBOLX_1/olx_items_dynamic_internal/;s3://olx-latam-bi/naspers-bi/latam/livesync4/bi-analytics/manifest/latam_dbolx_1_olx_items_dynamic_internal/;DBOLX_1;olx_items;livesync;latam_dbolx_1_olx_items_dynamic_internal
